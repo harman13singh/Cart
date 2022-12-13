@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Cart.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/Cart.github.io/static/js/main.042013e3.js",
+    "static/js/787.658bc779.chunk.js": "/Cart.github.io/static/js/787.658bc779.chunk.js",
+    "static/media/logo.svg": "/Cart.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Cart.github.io/index.html",
+    "main.073c9b0a.css.map": "/Cart.github.io/static/css/main.073c9b0a.css.map",
+    "main.042013e3.js.map": "/Cart.github.io/static/js/main.042013e3.js.map",
+    "787.658bc779.chunk.js.map": "/Cart.github.io/static/js/787.658bc779.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.042013e3.js"
+  ]
+}
